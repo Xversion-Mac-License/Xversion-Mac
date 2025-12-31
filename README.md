@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://macx.ws/uploads/posts/2018-11/1541966045_xversion.png" width="200" alt="Xversion macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Xversion">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Xversion">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Xversion macOS page">
  </a><br><br>
  <div align="center">
